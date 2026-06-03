@@ -1,0 +1,2 @@
+Hello! This is my first Git branch practice!
+My name is Arailym 😊
